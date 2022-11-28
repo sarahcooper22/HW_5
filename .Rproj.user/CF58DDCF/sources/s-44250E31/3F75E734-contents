@@ -1,0 +1,11 @@
+---
+title: "HW_5"
+author: "Sarah Cooper"
+date: "11/28/2022"
+output: pdf_document
+---
+
+```{r}
+list.files(path = "data")
+```
+

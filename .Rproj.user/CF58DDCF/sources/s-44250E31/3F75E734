@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1669665570852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2542866847",
+    "id" : "3F75E734",
+    "lastKnownWriteTime" : 1669665586,
+    "last_content_update" : 1669665586972,
+    "path" : "~/rprogramming/HW_5/writing/homework.Rmd",
+    "project_path" : "writing/homework.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
