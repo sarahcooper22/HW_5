@@ -1,11 +1,25 @@
 ---
-title: "Homework"
+title: "Homework 5"
 author: "Sarah Cooper"
-date: "11/28/2022"
+date: "11/30/2022"
 output: pdf_document
 ---
 
 ```{r}
-list.files(path = "data")
+library(tidyr)
+library(readr)
+library(stats)
+library(dplyr)
+library(ggplot2)
+library(forcats)
+library(scales)
+library(sf)
+library(tigris)
+library(forcats)
 ```
 
+```{r}
+list.files(path = "../data")
+hom <- read_csv("../data/homicide-data.csv")
+head(hom)
+```
