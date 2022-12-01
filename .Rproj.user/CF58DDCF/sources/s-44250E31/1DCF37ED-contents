@@ -4,6 +4,11 @@ author: "Sarah Cooper"
 date: "11/30/2022"
 output: pdf_document
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
 
 ```{r}
 library(tidyr)
