@@ -17,9 +17,22 @@ library(sf)
 library(tigris)
 library(forcats)
 ```
-
+# Read in data
 ```{r}
 list.files(path = "../data")
 hom <- read_csv("../data/homicide-data.csv")
 head(hom)
 ```
+
+
+# Clean data
+```{r}
+
+```
+
+
+# Graph data
+```{r}
+
+```
+
