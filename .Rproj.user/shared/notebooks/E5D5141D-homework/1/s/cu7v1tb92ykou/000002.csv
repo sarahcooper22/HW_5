@@ -1,0 +1,4 @@
+"0","hom <- read_csv(""homicide-data.csv"")
+"
+"2","Error: 'homicide-data.csv' does not exist in current working directory ('/Users/SarahCooper/rprogramming/HW_5/writing').
+"

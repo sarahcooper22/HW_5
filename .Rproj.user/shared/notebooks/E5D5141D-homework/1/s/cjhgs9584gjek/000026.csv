@@ -1,0 +1,4 @@
+"0",""
+"0","ggsave(""../figures/fig.tiff"", width = 2600,"
+"0","  height = 1100,"
+"0"," units = c(""px""))"
